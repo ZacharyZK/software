@@ -1,0 +1,46 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>picture/car4.jpg</file>
+    <file>picture/back1.jpg</file>
+    <file>picture/color1.jpg</file>
+    <file>picture/shortcut_key.png</file>
+    <file>picture/car3.jpg</file>
+    <file>picture/car2.jpg</file>
+    <file>picture/car1.jpg</file>
+    <file>Icons/radar.png</file>
+    <file>Icons/user.png</file>
+    <file>Icons/guidee.png</file>
+    <file>picture/car_background.jpg</file>
+    <file>picture/cool_car.jpg</file>
+    <file>Icons/guide_1.png</file>
+    <file>Icons/guide.png</file>
+    <file>picture/shortcut_key.png</file>
+    <file>Icons/weather_1.png</file>
+    <file>Icons/about_system.png</file>
+    <file>Icons/contract_1.png</file>
+    <file>Icons/edit_parameter.png</file>
+    <file>Icons/map.png</file>
+    <file>Icons/team_1.png</file>
+    <file>Icons/weather.png</file>
+    <file>Icons/camera_1.png</file>
+    <file>Icons/picture_1.png</file>
+    <file>Icons/video_1.png</file>
+    <file>Icons/quit_3.png</file>
+    <file>Icons/run.png</file>
+    <file>Icons/K.png</file>
+    <file>Icons/edit.png</file>
+    <file>Icons/print.png</file>
+    <file>Icons/contact.png</file>
+    <file>Icons/help.png</file>
+    <file>Icons/team.png</file>
+    <file>Icons/camera.png</file>
+    <file>Icons/code.png</file>
+    <file>Icons/exit.png</file>
+    <file>Icons/open.png</file>
+    <file>Icons/picture.png</file>
+    <file>Icons/save.png</file>
+    <file>Icons/szu.jpg</file>
+    <file>Icons/szu_flag.jpg</file>
+    <file>Icons/video.png</file>
+  </qresource>
+</RCC>
